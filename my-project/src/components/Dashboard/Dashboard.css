@@ -1,0 +1,17 @@
+.header {
+    background: #001529;
+    padding: 0 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo {
+    height: 31px;
+    width: 120px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+.profile-name {
+    color: #1890ff; 
+    font-weight: bold; 
+  }
+  
